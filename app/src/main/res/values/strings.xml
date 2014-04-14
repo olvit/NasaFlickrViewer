@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlickrViewer</string>
+    <string name="load_text">loading...</string>
+    <string name="load_message">Please wait while loading</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
